@@ -1,0 +1,42 @@
+output_format_column,vendor_column
+Record ID,RECORDID
+Record Number,RECORDID
+Claim ID,RXCLAIMNBR
+Original_Claim,RXCLAIMNBR
+Group_ID,GROUPID
+PCN,PROCESSOR
+Employee_ID,MEMBERID
+SSN,SOCSECNBR
+Patient_ID,CARDHOLDER
+Patient_Last_Name,MBRLSTNME
+Patient_First_Name,MBRFSTNME
+Patient_Address 1,MBRADDR1
+Patient_Address 2,MBRADDR2
+Patient_City,MBRCITY
+Patient_State,MBRSTATE
+Patient_Zip_code,MBRZIP
+Relationship,MBRRELCDE
+Date_of_Birth,MBRBIRTH
+Prescriber_Name,PRESCRIBER
+Pharmacy_Name,PHARMACYNAME
+Pharmacy_Type,DISPROTHER
+Date_of_Service,DATESERVICE
+Prescription_No,RXNUMBER
+Date_Prescription_Filled,DTEFILLED
+In-Out_Network,RXNETWORK
+NDC,PRODUCTID
+Label_Name,LABELNAME
+Brand_Generic,GENERICNME
+Drug_Strength,METRICSTRG
+Days_Supply,DAYSSUPPLY
+Quantity,DECIMALQTY
+Dosage Form,DOSAGEFORM
+Formulary,FORMULARY
+Total_Billed_Amount,SBMAMTDUE
+Plan_Paid_Amount,PHRDUEAMT
+Member_Copay_Coins,CALCOPAY
+Member_Deductible,CALATRDED
+Member_Other_Cost,CALTOTHAMT
+Member_Total_Paid_Amount,CALPATPAY
+Paid_Date,PAIDDATE
+Status,CLAIMSTS

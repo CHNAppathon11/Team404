@@ -1,0 +1,274 @@
+
+{
+  "Claim Errors": [
+    {
+      "record": 0,
+      "field": "ClaimID",
+      "error": "ClaimID 'US-2009-57557' length is less than the minimum (7 characters) and greater than the maximum length(50 characters)."
+    },
+    {
+      "record": 0,
+      "field": "Payer_Contact_Phone",
+      "error": "Payer_Contact_Phone '138-539-7094' exceeds maximum length of 12 characters."
+    },
+    {
+      "record": 1,
+      "field": "Payer_Contact_Phone",
+      "error": "Payer_Contact_Phone '337-005-6785' exceeds maximum length of 12 characters."
+    },
+    {
+      "record": 2,
+      "field": "City",
+      "error": "City 'Delhi' exceeds maximum length of 30 characters."
+    },
+    {
+      "record": 3,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-08-14' is before the Date_of_Service '2024-01-26'."
+    },
+    {
+      "record": 4,
+      "field": "State",
+      "error": "Inconsistent State values: LA and MI are present in the same record."
+    },
+    {
+      "record": 6,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-24' is before the Date_of_Service '2024-03-28'."
+    },
+    {
+      "record": 7,
+      "field": "State",
+      "error": "Inconsistent State values: LA and NY are present in the same record."
+    },
+    {
+      "record": 7,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-04-13' is before the Date_of_Service '2023-01-19'."
+    },
+    {
+      "record": 11,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-11' is before the Date_of_Service '2023-01-10'."
+    },
+    {
+      "record": 12,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-06-17' is before the Date_of_Service '2023-01-15'."
+    },
+    {
+      "record": 13,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-09-12' is after the Date_of_Service '2024-06-28'."
+    },
+    {
+      "record": 14,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-02-21' is after the Date_of_Service '2023-07-16'."
+    },
+    {
+      "record": 15,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-03-12' is before the Date_of_Service '2023-04-20'."
+    },
+    {
+      "record": 16,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-03-22' is before the Date_of_Service '2023-04-11'."
+    },
+    {
+      "record": 17,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-08-16' is before the Date_of_Service '2023-01-20'."
+    },
+    {
+      "record": 18,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-06-19' is before the Date_of_Service '2023-01-22'."
+    },
+    {
+      "record": 19,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-23' is before the Date_of_Service '2024-01-26'."
+    },
+    {
+      "record": 20,
+      "field": "City",
+      "error": "City 'Delhi' exceeds maximum length of 30 characters."
+    },
+    {
+      "record": 36,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-07-10' is before the Date_of_Service '2024-01-10'."
+    },
+    {
+      "record": 37,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-09-23' is after the Date_of_Service '2024-05-14'."
+    },
+    {
+      "record": 40,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-02-11' is before the Date_of_Service '2024-01-22'."
+    },
+    {
+      "record": 41,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-04-18' is after the Date_of_Service '2024-02-24'."
+    },
+    {
+      "record": 43,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-22' is before the Date_of_Service '2023-06-23'."
+    },
+    {
+      "record": 46,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-02-19' is before the Date_of_Service '2024-08-19'."
+    },
+    {
+      "record": 47,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-01-25' is before the Date_of_Service '2024-01-22'."
+    },
+    {
+      "record": 50,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-12' is before the Date_of_Service '2023-06-12'."
+    },
+    {
+      "record": 52,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-22' is before the Date_of_Service '2023-07-28'."
+    },
+    {
+      "record": 53,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-16' is before the Date_of_Service '2023-01-21'."
+    },
+    {
+      "record": 54,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-06-27' is before the Date_of_Service '2023-01-22'."
+    },
+    {
+      "record": 55,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-19' is before the Date_of_Service '2024-06-27'."
+    },
+    {
+      "record": 56,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-01-22' is before the Date_of_Service '2023-09-17'."
+    },
+    {
+      "record": 58,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-12' is before the Date_of_Service '2023-06-12'."
+    },
+    {
+      "record": 59,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-02-12' is before the Date_of_Service '2023-06-11'."
+    },
+    {
+      "record": 60,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-01-25' is before the Date_of_Service '2024-01-20'."
+    },
+    {
+      "record": 61,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-24' is before the Date_of_Service '2024-01-20'."
+    },
+    {
+      "record": 62,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-04-15' is before the Date_of_Service '2024-08-12'."
+    },
+    {
+      "record": 63,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-08-26' is after the Date_of_Service '2023-07-26'."
+    },
+    {
+      "record": 64,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-01-19' is before the Date_of_Service '2024-07-25'."
+    },
+    {
+      "record": 65,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-02-10' is before the Date_of_Service '2024-01-11'."
+    },
+    {
+      "record": 66,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-09-11' is after the Date_of_Service '2024-01-11'."
+    },
+    {
+      "record": 67,
+      "field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-22' is before the Date_of_Service '2024-01-12'."
+    },
+    {
+      "record": 68,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-01-12' is before the Date_of_Service '2024-01-24'."
+    },
+    {
+      "record": 69,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-08-25' is after the Date_of_Service '2024-01-11'."
+    },
+    {
+      "record": 70,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-02-26' is before the Date_of_Service '2024-01-28'."
+    },
+    {
+      "record": 71,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-03-10' is before the Date_of_Service '2024-05-24'."
+    },
+    {
+      "record": 72,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-09-16' is before the Date_of_Service '2023-05-21'."
+    },
+    {
+      "record": 73,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2024-04-28' is after the Date_of_Service '2024-06-24'."
+    },
+    {
+      "record": 74,"field": "Prescription_Filled_Date",
+      "error": "Prescription_Filled_Date '2023-03-19' is before the Date_of_Service '2023-09-18'."
+    },
+     {
+      "record": 37,
+      "field": "Payer_Contact_Phone",
+      "error": "Payer_Contact_Phone '301-862-7315' exceeds maximum length of 12 characters."
+    },
+    {
+      "record": 57,
+      "field": "Payer_Contact_Phone",
+      "error": "Payer_Contact_Phone '775-183-8239' exceeds maximum length of 12 characters."
+    },
+      {
+      "record": 75,
+      "field": "Payer_Contact_Phone",
+      "error": "Payer_Contact_Phone '071-328-3621' exceeds maximum length of 12 characters."
+    },
+    {
+      "record": 38,
+      "field": "37",
+      "error": "Invalid value '-329' for field '37'.  Must be a non-negative number"
+    },
+    {
+      "record": 64,
+      "field": "37",
+      "error": "Invalid value '-488' for field '37'. Must be a non-negative number."
+    },
+    {
+      "record": 75,
+      "field": "37",
+      "error": "Invalid value '-267' for field '37'. Must be a non-negative number."
+    }
+
+  ]
+}
